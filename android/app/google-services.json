@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "985244801404",
+    "firebase_url": "https://photo-frame-app-de38a.firebaseio.com",
+    "project_id": "photo-frame-app-de38a",
+    "storage_bucket": "photo-frame-app-de38a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985244801404:android:043117a010147642d16cf9",
+        "android_client_info": {
+          "package_name": "ar.com.p39.photo_frame_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985244801404-9qhobvctacnubspbutdljljdb37p89he.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ar.com.p39.photo_frame_app",
+            "certificate_hash": "e408700297e4e8f89ebe9b5bd2d851a60213912f"
+          }
+        },
+        {
+          "client_id": "985244801404-qcqa3ma7rsvuf7h0tq22c3ip06srj8aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByeDPtbWJfJKunAAd7V2Hl65HV8N_x7zI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985244801404-qcqa3ma7rsvuf7h0tq22c3ip06srj8aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
